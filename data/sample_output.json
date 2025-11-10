@@ -1,0 +1,40 @@
+[
+  {
+    "token": "b_2w9emw3g5b",
+    "name": "A LINE",
+    "description": "A LINE is born with the purpose of questioning fashion, elevating its root values...",
+    "short_description": null,
+    "url": "https://www.faire.com/api/brands/b_2w9emw3g5b",
+    "instagram_handle": "alineclothing_official",
+    "country": "PRT",
+    "made_in": "PRT",
+    "active_products_count": 133,
+    "lead_time_days": 14,
+    "first_order_minimum_amount": 0,
+    "accepted_terms": true,
+    "eco_friendly": true,
+    "women_owned": true,
+    "sold_on_amazon": false,
+    "badges": ["VOGUE", "ELLE", "GLAMOUR", "MARIE_CLAIRE"],
+    "business_identifiers": [
+      {
+        "identifier_type": "LUCID",
+        "identifier_value": "DE5470525976714"
+      },
+      {
+        "identifier_type": "VAT",
+        "identifier_value": "515237230"
+      }
+    ],
+    "story_images": [],
+    "video_url": "https://www.youtube.com/watch?v=41grz0t3zTo",
+    "brand_reviews_summary": {
+      "rating": 4.9,
+      "review_count": 128
+    },
+    "vacation_start_date": null,
+    "vacation_end_date": null,
+    "vacation_banner_text": null,
+    "source_error": null
+  }
+]
