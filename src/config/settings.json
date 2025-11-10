@@ -1,0 +1,7 @@
+{
+  "faire_base_url": "https://www.faire.com/api",
+  "timeout_seconds": 10,
+  "user_agent": "FaireBrandScraper/1.0 (+https://bitbash.dev)",
+  "input_file": "data/input_brands.txt",
+  "output_file": "data/sample_output.json"
+}
