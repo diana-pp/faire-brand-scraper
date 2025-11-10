@@ -1,0 +1,5 @@
+# One brand identifier per line.
+# You can use either a raw token like "b_2w9emw3g5b" or a full Faire URL.
+
+b_2w9emw3g5b
+https://www.faire.com/brand/b_123example456
